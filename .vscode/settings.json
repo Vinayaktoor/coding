@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "POINTER1.C": "cpp",
+        "POINTER2.C": "cpp",
+        "swaptwo_no.C": "cpp"
+    }
+}
